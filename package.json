@@ -23,6 +23,7 @@
     "strapi-plugin-email": "3.6.2",
     "strapi-plugin-upload": "^3.1.7",
     "strapi-plugin-users-permissions": "^3.1.7",
+    "strapi-provider-upload-aws-s3": "^3.6.2",
     "strapi-provider-upload-cloudinary": "^3.6.2",
     "strapi-utils": "3.6.2"
   },
@@ -33,7 +34,7 @@
     "uuid": "7b151de6-9e09-4ba3-9bf8-5b8b601795a5"
   },
   "engines": {
-    "node": ">=12.x<=14.x",
+    "node": ">= 12.x <= 14.x",
     "npm": "6.12.0"
   },
   "license": "MIT"
